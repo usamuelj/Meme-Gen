@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.meme{
+    width: 80%;
+    height: 500px;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 30px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    overflow: hidden;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
